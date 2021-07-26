@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import "package:flutter/material.dart";
-import 'package:flutter_medical/HealthRecord/healthMain.dart';
+import 'package:flutter_medical/screen/HealthRecord/healthMain.dart';
 import 'package:flutter_medical/constant.dart';
 import 'package:flutter_medical/model/task.dart';
 import 'package:flutter_medical/screen/LoginRegister/FadeAnimation.dart';
